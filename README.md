@@ -1,6 +1,7 @@
 # Meditation Timer
 
 demo: https://youtu.be/iG8MUivIH4c
+
 technologies used: Flutter, Dart
 
 ## Getting Started
