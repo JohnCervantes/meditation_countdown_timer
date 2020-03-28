@@ -1,4 +1,4 @@
-# timer
+# Meditation Timer
 
 A new Flutter project.
 
